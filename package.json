@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/085astatine/js_learning/issues"
   },
-  "homepage": "https://github.com/085astatine/js_learning#readme"
+  "homepage": "https://github.com/085astatine/js_learning#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.21",
+    "typescript": "^3.7.4"
+  }
 }
