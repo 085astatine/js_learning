@@ -19,6 +19,7 @@
   "homepage": "https://github.com/085astatine/js_learning#readme",
   "devDependencies": {
     "@types/node": "^12.12.21",
+    "ts-node": "^8.5.4",
     "typescript": "^3.7.4"
   }
 }
