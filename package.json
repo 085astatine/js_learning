@@ -21,6 +21,8 @@
   "homepage": "https://github.com/085astatine/js_learning#readme",
   "devDependencies": {
     "@types/node": "^12.12.21",
+    "npm-run-all": "^4.1.5",
+    "rimraf": "^3.0.0",
     "ts-node": "^8.5.4",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.7.4"
